@@ -37,7 +37,7 @@ export default function Blender() {
           {/* Logo */}
           <div className="flex justify-center mb-8">
             <img
-              src="/software/Blender.webp"
+              src="/Software/Blender.webp"
               alt="Blender"
               className="w-36 h-36 object-contain"
             />

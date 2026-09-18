@@ -37,7 +37,7 @@ export default function FreeCAD() {
           {/* Logo */}
           <div className="flex justify-center mb-8">
             <img
-              src="/software/Freecad.png"
+              src="/Software/Freecad.png"
               alt="FreeCAD"
               className="w-24 h-24 md:w-32 md:h-32 object-contain"
             />
