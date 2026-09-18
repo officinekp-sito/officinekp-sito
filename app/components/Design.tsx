@@ -37,7 +37,7 @@ export default function Design() {
             <div className="order-1 md:order-1 flex justify-center md:justify-end md:pr-12">
               <a href={isEnglish ? "/en#freecad" : "#freecad"} className="transition-transform duration-300 hover:scale-150">
                 <img
-                  src="/software/Freecad.png"
+                  src="/Software/Freecad.png"
                   alt="FreeCAD"
                   className="w-28 h-28 md:w-48 md:h-48 object-contain"
                 />
@@ -48,7 +48,7 @@ export default function Design() {
             <div className="order-2 md:order-3 flex justify-center md:justify-start md:pl-12">
               <a href={isEnglish ? "/en#blender" : "#blender"} className="transition-transform duration-300 hover:scale-150">
                 <img
-                  src="/software/Blender.webp"
+                  src="/Software/Blender.webp"
                   alt="Blender"
                   className="w-28 h-28 md:w-80 md:h-80 object-contain"
                 />
