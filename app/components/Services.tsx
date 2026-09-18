@@ -50,7 +50,7 @@ export default function Services() {
 
             <div className="rounded-2xl overflow-hidden">
               <Image
-                src="/Stampante3d/K21.webp"
+                src="/Stampante3D/K21.webp"
                 alt="Creality K2 Plus Combo"
                 width={700}
                 height={700}
