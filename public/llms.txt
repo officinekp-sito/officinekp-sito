@@ -1,0 +1,22 @@
+# Officine KP
+
+> Laboratorio digitale specializzato in stampa 3D, scansione 3D e progettazione, per privati e aziende.
+
+Officine KP offre servizi di prototipazione e produzione tramite stampa 3D, scansione 3D per reverse engineering e digitalizzazione, e progettazione digitale con FreeCAD (modellazione tecnica e parametrica) e Blender (modellazione organica e visualizzazione).
+
+## Servizi
+- Stampa 3D: prototipazione, produzione di pezzi singoli o piccole serie, materiali PLA/PETG/TPU, stampa multicolore
+- Scansione 3D: digitalizzazione di oggetti fisici
+- Design: modellazione tecnica con FreeCAD, modellazione organica con Blender
+- Servizi per aziende (B2B) e per clienti privati
+
+## Pagine principali
+- Sito (italiano): https://www.officinekp.eu/
+- Site (English): https://www.officinekp.eu/en
+- Portfolio: https://www.officinekp.eu/portfolio
+- Portfolio (English): https://www.officinekp.eu/en/portfolio
+- Linee guida per richiedere un preventivo: https://www.officinekp.eu/lineeguida
+- Privacy Policy: https://www.officinekp.eu/privacy
+
+## Contatti
+Email: officinekp@gmail.com
