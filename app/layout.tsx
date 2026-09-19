@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { Analytics } from "@vercel/analytics/next";
 import Navbar from "./components/Navbar";
 import NavbarMobile from "./components/NavbarMobile";
 import LanguageSync from "./components/LanguageSync";
@@ -94,6 +95,7 @@ export default function RootLayout({
           {children}
         </main>
 
+        <Analytics />
       </body>
     </html>
   );
