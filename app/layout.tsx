@@ -44,6 +44,20 @@ const organizationJsonLd = {
   url: SITE_URL,
   description: "Laboratorio digitale specializzato in stampa 3D, scansione 3D e progettazione, per privati e aziende.",
   logo: `${SITE_URL}/Pixelpeluche.png`,
+  email: "officinekp@gmail.com",
+  sameAs: [
+    "https://www.crealitycloud.com/it/user/4529990523/profile",
+    "https://cults3d.com/it/utenti/Officinekp/modelli-3d",
+    "https://makerworld.com/en/@officinekp",
+  ],
+  knowsAbout: [
+    "Stampa 3D",
+    "Scansione 3D",
+    "Modellazione 3D",
+    "FreeCAD",
+    "Blender",
+    "Prototipazione",
+  ],
 };
 
 export default function RootLayout({
